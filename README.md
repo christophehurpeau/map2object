@@ -1,5 +1,7 @@
 # map2object [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/map2object.svg)](https://greenkeeper.io/)
+
 Transform a Map to a Object
 
 [![Build Status][build-status-image]][build-status-url] [![Coverage][coverage-image]][coverage-url]
